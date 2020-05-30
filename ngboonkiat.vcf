@@ -7,7 +7,7 @@ TITLE:Assistant General Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:ngbk@wetsb.com
 TEL;type=Cell;type=VOICE:+60193390898
 TEL;type=WORK;type=VOICE:+60378469888
-item1.ADR;type=WORK;type=pref:No.20\, Jalan Astaka U8/83\,\n;Seksyen U8\, Bukit Jelutong\,\n;Shah Alam\, Selangor\,;;;40150;Malaysia
+item1.ADR;type=WORK;type=pref:No.20\, Jalan Astaka U8/83\n Seksyen U8\, Bukit Jelutong\n 40150 Shah Alam\n Malaysia;;;;;;
 item1.X-ABADR:my
 item2.URL;type=pref:http://www.wetsb.com
 item2.X-ABLabel:_$!<HomePage>!$_
