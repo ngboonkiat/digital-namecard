@@ -1,5 +1,5 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0
 N:Boon Kiat;Ng;;;
 FN: Ng Boon Kiat 
 ORG:Water Engineering Technology Sdn Bhd;
@@ -7,7 +7,7 @@ TITLE:Assistant General Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:ngbk@wetsb.com
 TEL;type=Cell;type=VOICE:+6019 339 0898
 TEL;type=WORK;type=VOICE:+603 7846 9888
-item1.ADR;type=WORK;type=pref:;;No. 20\, Jalan Astaka U8/83\,\nSeksyen U8\, Bukit Jelutong\,\n Shah Alam\, Selangor;;;40150;Malaysia
+item1.ADR;type=WORK;type=pref:No.20, Jalan Astaka U8/83;Seksyen U8, Bukit Jelutong;Shah Alam Selangor;;;40150;Malaysia
 item1.X-ABADR:my
 item2.URL;type=pref:http://www.wetsb.com
 item2.X-ABLabel:_$!<HomePage>!$_
