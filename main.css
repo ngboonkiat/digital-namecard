@@ -63,8 +63,8 @@ img.profile-pic {
 	flex-shrink: 1;
 	margin: 0;
 	padding: 0.25rem;
-	max-width: 150%;
-	max-height: 150%;
+	max-width: 100%;
+	max-height: 100%;
 	overflow: auto;
 }
 
@@ -116,6 +116,11 @@ img.profile-pic {
 .col.is-10 {
 	flex: none;
 	width: 100%;
+}
+
+.col.is-15 {
+	flex: none;
+	width: 150%;
 }
 
 .name-title-company {
